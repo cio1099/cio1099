@@ -1,45 +1,42 @@
-# Hi, I'm cio1099 👋
+<p align="right"><strong>🌐 Dil / Language:</strong> 🇹🇷 Türkçe | <a href="./README_EN.md">🇬🇧 English</a></p>
 
-**Software Developer | C • Java • Spring Boot • PostgreSQL**
+# Merhaba, ben cio1099! 👋
 
-I enjoy building practical software, solving problems, and learning how systems work. My projects range from systems programming in C to algorithmic applications, and I'm exploring how AI can be integrated into software.
+**Yazılım Geliştirici | C • Java • Spring Boot • PostgreSQL**
 
-## 🛠️ Tech Stack
+Yazılım geliştirme, algoritmalar ve problem çözme üzerine çalışıyorum. C ve Java ile farklı türlerde uygulamalar geliştiriyor, yeni teknolojileri projeler üzerinden öğrenmeyi seviyorum. Yapay zekânın yazılım ürünlerinde nasıl kullanılabileceğini de araştırıyorum.
 
-**Languages**
+## 🛠️ Teknolojiler
 
 ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-
-**Frameworks & Databases**
-
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 
-**Core topics:** Algorithms · Data Structures · Object-Oriented Programming · Dynamic Memory Management
+**Temel konular:** Algoritmalar · Veri yapıları · Nesne yönelimli programlama · Dinamik bellek yönetimi
 
-**Currently exploring:** AI-powered applications · Large Language Models (LLMs) · AI API integration · Retrieval-Augmented Generation (RAG)
+**İlgilendiğim alanlar:** Yapay zekâ destekli uygulamalar · Büyük dil modelleri (LLM) · AI API entegrasyonları · RAG
 
-## 💻 Projects
+## 💻 Projelerim
 
-### 📚 Library Management System
-A library management system written in **C**, supporting book and author management, borrowing, and returns. The data model supports books with multiple authors, along with updates to book and author records.
+### 📚 Kütüphane Dokümantasyon Sistemi
+**C** ile geliştirilen; kitap ve yazar kaydı, ödünç alma ve iade işlemlerini destekleyen bir sistem. Bir kitabın birden fazla yazarı olabilmesi ve kitap/yazar bilgilerinin güncellenebilmesi göz önünde bulundurularak tasarlandı.
 
-### 🧮 Scientific Calculator
-A terminal-based calculator that identifies and evaluates mathematical expressions, including logarithms and exponentiation. It also supports numerical methods such as **Newton–Raphson**.
+### 🧮 Bilimsel Hesap Makinesi
+Terminal üzerinden girilen matematiksel ifadeleri yorumlayan bir hesap makinesi. Logaritma ve üs alma gibi işlemlere ek olarak **Newton–Raphson** gibi sayısal yöntemleri destekler.
 
-### 🎮 Number Matching Game
-An **N × N** number-pair matching game featuring two ways to build a playable board: loading predefined layouts from text files or generating layouts programmatically.
+### 🎮 Numara Eşleştirme Oyunu
+**N × N** boyutlu matris üzerinde sayı çiftlerini eşleştirmeye dayalı bir oyun. Oyun tahtası, metin dosyalarındaki hazır düzenlerden okunabilir veya programatik olarak oluşturulabilir.
 
-*I'll link the repositories and add setup instructions as the projects are published.*
+*Proje bağlantıları yayımlandıkça bu bölüme eklenecek.*
 
-## 🌱 What I'm Working On
+## 🌱 Şu Anda Odaklandıklarım
 
-- Strengthening my general software development and problem-solving skills.
-- Building well-structured projects and improving technical documentation.
-- Exploring practical applications of AI and LLM-based tools.
+- Genel yazılım geliştirme becerilerimi ve algoritmik düşünme yeteneğimi ilerletmek.
+- Projelerimin kod yapısını ve dokümantasyonunu iyileştirmek.
+- AI ve LLM tabanlı araçların yazılıma nasıl entegre edildiğini öğrenmek.
 
 ---
 
-**Learning by building, one project at a time.**
+*Her projede yeni bir şey öğreniyorum.*
