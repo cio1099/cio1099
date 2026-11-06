@@ -36,7 +36,7 @@
 
 *Bu tablo, teknik temelimle birlikte geliştirmeye devam ettiğim kavramları gösterir; her başlıkta ileri düzey uzmanlık iddiası değildir.*
 
-## 🔧 Yakından Takip Ettiğim Araçlar
+## 🔧 Geliştirme Araçları ve Ekosistem
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
@@ -46,13 +46,15 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
-**Öğrenme ve pratik rotam:**
-- **Java araçları:** Maven, JUnit, JDBC, Spring Data JPA ve Hibernate.
-- **API geliştirme:** HTTP, REST, JSON, Postman ve API dokümantasyonu.
-- **Geliştirme ortamı:** Git ile sürüm kontrolü, GitHub iş akışları, Linux terminali ve Docker temelleri.
-- **Kod kalitesi:** Birim testleri, temiz kod, anlaşılır commit mesajları ve sürdürülebilir dokümantasyon.
+| Kategori | Teknolojiler ve kullanım alanları |
+| --- | --- |
+| **Sürüm kontrolü** | **Git, GitHub** — branch yönetimi, commit geçmişi, pull request ve kod paylaşımı |
+| **Java geliştirme** | **Maven** — bağımlılık yönetimi ve proje derleme; **JDBC, Spring Data JPA, Hibernate** — veri erişimi ve ORM |
+| **Test & kalite** | **JUnit** — birim testleri; hata ayıklama, test senaryoları ve kodun doğrulanması |
+| **API & entegrasyon** | **Postman, HTTP, REST, JSON** — endpoint inceleme, istek/yanıt yapıları ve API testleri |
+| **Çalışma ortamı** | **Linux, Docker** — komut satırı araçları, çalışma ortamı ve container kavramları |
 
-*Bu bölümdeki araçlar, mevcut öğrenme hedeflerim ve ilgilendiğim ekosistemdir; tamamını profesyonel düzeyde kullandığım anlamına gelmez.*
+**Yazılım geliştirme pratiği:** Modüler kod organizasyonu · Temiz kod prensipleri · Teknik dokümantasyon · Hata ayıklama · Sürüm kontrolü
 
 ## 🤖 Yapay Zekâ ve Yeni Teknolojiler
 
