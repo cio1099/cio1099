@@ -1,42 +1,41 @@
 <p align="right"><strong>🌐 Dil / Language:</strong> 🇹🇷 Türkçe | <a href="./README_EN.md">🇬🇧 English</a></p>
 
-# Merhaba, ben cio1099! 👋
+<h1 align="center">Merhaba, ben cio1099 👋</h1>
+<p align="center"><strong>Yazılım Geliştirici Adayı · Problem Çözme · Teknoloji & Yapay Zekâ</strong></p>
+<p align="center">
+  <img alt="Staj ve junior pozisyonlarına açık" src="https://img.shields.io/badge/Staj%20%26%20Junior%20Pozisyonlara-A%C3%A7%C4%B1k-2ea44f?style=flat-square"/>
+</p>
 
-**Yazılım Geliştirici | C • Java • Spring Boot • PostgreSQL**
+## 👨‍💻 Hakkımda
 
-Yazılım geliştirme, algoritmalar ve problem çözme üzerine çalışıyorum. C ve Java ile farklı türlerde uygulamalar geliştiriyor, yeni teknolojileri projeler üzerinden öğrenmeyi seviyorum. Yapay zekânın yazılım ürünlerinde nasıl kullanılabileceğini de araştırıyorum.
+Yazılımın farklı alanlarını keşfetmeyi, algoritmik problemler üzerinde çalışmayı ve öğrendiklerimi uygulamaya dönüştürmeyi seviyorum. **C, Java, Spring Boot ve PostgreSQL** odağında yazılım geliştirme temellerimi güçlendirirken; yazılım tasarımı, sürdürülebilir kod ve yeni teknolojilere ilgi duyuyorum.
 
-## 🛠️ Teknolojiler
+Kendimi tek bir uzmanlık alanıyla sınırlamadan farklı geliştirme süreçlerini tanımayı ve ekip içinde öğrenerek üretmeyi hedefliyorum.
 
-![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+## ⚙️ Teknoloji Yığınım
 
-**Temel konular:** Algoritmalar · Veri yapıları · Nesne yönelimli programlama · Dinamik bellek yönetimi
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 
-**İlgilendiğim alanlar:** Yapay zekâ destekli uygulamalar · Büyük dil modelleri (LLM) · AI API entegrasyonları · RAG
+**Teknik temel:** Algoritmalar · Veri Yapıları · Nesne Yönelimli Programlama · Dinamik Bellek Yönetimi · SQL
 
-## 💻 Projelerim
+## 🚀 İlgi ve Gelişim Alanlarım
 
-### 📚 Kütüphane Dokümantasyon Sistemi
-**C** ile geliştirilen; kitap ve yazar kaydı, ödünç alma ve iade işlemlerini destekleyen bir sistem. Bir kitabın birden fazla yazarı olabilmesi ve kitap/yazar bilgilerinin güncellenebilmesi göz önünde bulundurularak tasarlandı.
+- **Yazılım mühendisliği:** Kod kalitesi, modüler tasarım, hata ayıklama ve sürdürülebilir uygulamalar.
+- **Uygulama geliştirme:** Farklı problemler için işlevsel ve anlaşılır yazılım çözümleri.
+- **Yapay zekâ:** LLM'ler, AI destekli uygulamalar, API entegrasyonları ve RAG gibi yaklaşımları öğrenme.
 
-### 🧮 Bilimsel Hesap Makinesi
-Terminal üzerinden girilen matematiksel ifadeleri yorumlayan bir hesap makinesi. Logaritma ve üs alma gibi işlemlere ek olarak **Newton–Raphson** gibi sayısal yöntemleri destekler.
+## 🎯 Kariyer Hedefim
 
-### 🎮 Numara Eşleştirme Oyunu
-**N × N** boyutlu matris üzerinde sayı çiftlerini eşleştirmeye dayalı bir oyun. Oyun tahtası, metin dosyalarındaki hazır düzenlerden okunabilir veya programatik olarak oluşturulabilir.
+**Yazılım geliştirme stajı, trainee ve junior yazılım geliştirici pozisyonları için adayım.** Öğrenme isteğimi, analitik düşünme becerimi ve yazılım temellerimi gerçek ekip çalışmalarında geliştirebileceğim fırsatlarla ilgileniyorum.
 
-*Proje bağlantıları yayımlandıkça bu bölüme eklenecek.*
+## 🔗 Bağlantılar
 
-## 🌱 Şu Anda Odaklandıklarım
-
-- Genel yazılım geliştirme becerilerimi ve algoritmik düşünme yeteneğimi ilerletmek.
-- Projelerimin kod yapısını ve dokümantasyonunu iyileştirmek.
-- AI ve LLM tabanlı araçların yazılıma nasıl entegre edildiğini öğrenmek.
+[![GitHub](https://img.shields.io/badge/GitHub-cio1099-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/cio1099)
 
 ---
 
-*Her projede yeni bir şey öğreniyorum.*
+<p align="center"><i>Merak et. Öğren. Geliştir. Paylaş.</i></p>
