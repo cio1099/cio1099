@@ -3,20 +3,18 @@
   <a href="./README_EN.md"><img alt="English" src="https://img.shields.io/badge/English-EN-374151?style=for-the-badge" /></a>
 </p>
 
-<h1 align="center">Merhaba, ben cio1099 👋</h1>
+<h1 align="center">Merhaba, ben cihan</h1>
 <h3 align="center">Software Developer | Problem Solving • Software Engineering • AI</h3>
-<p align="center">Yazılım geliştirmeyi, sistemlerin nasıl çalıştığını anlamayı ve yeni fikirleri koda dönüştürmeyi seviyorum.</p>
 <p align="center">
   <img alt="Problem Solving" src="https://img.shields.io/badge/Problem%20Solving-1f6feb?style=flat-square" />
   <img alt="Continuous Learning" src="https://img.shields.io/badge/Continuous%20Learning-8957e5?style=flat-square" />
-  <img alt="Open to Collaboration" src="https://img.shields.io/badge/Open%20to%20Collaboration-238636?style=flat-square" />
 </p>
 
 ## 👨‍💻 Hakkımda
 
-**C ve Java** ile programlama temelleri, **Spring Boot** ile uygulama geliştirme ve **PostgreSQL/SQL** ile veri yönetimi üzerine çalışıyorum. Bir problemi küçük parçalara ayırmak, doğru veri yapısını seçmek, kodun okunabilirliğini artırmak ve çözümü adım adım geliştirmek benim için yazılımın en keyifli tarafları.
+Yıldız Teknik Üniversitesinde Bilgisayar Mühendisliği 2. sınıf öğrencisiyim.
 
-İlgim tek bir uzmanlık alanıyla sınırlı değil: **algoritmalar, sistemlerin çalışma mantığı, uygulama mimarisi, veritabanları ve yapay zekânın yazılıma entegrasyonu** gibi alanları keşfediyorum.
+**C ve Java** ile programlama temelleri, **Spring Boot** ile uygulama geliştirme ve **PostgreSQL/SQL** ile veri yönetimi üzerine çalışıyorum.
 
 ## 🛠️ Teknoloji Temelim
 
@@ -33,8 +31,6 @@
 | **Veri ve SQL** | İlişkisel veritabanları, tablolar ve ilişkiler, SQL sorguları, `JOIN` ve veri modelleme |
 | **Uygulama geliştirme** | Spring Boot ekosistemi, katmanlı yapı ve API tasarımının temel kavramları |
 | **Bilgisayar bilimi** | Algoritmalar, veri yapıları, sayısal yöntemler, hata ayıklama ve problem analizi |
-
-*Bu tablo, teknik temelimle birlikte geliştirmeye devam ettiğim kavramları gösterir; her başlıkta ileri düzey uzmanlık iddiası değildir.*
 
 ## 🔧 Geliştirme Araçları ve Ekosistem
 
@@ -54,8 +50,6 @@
 | **API & entegrasyon** | **Postman, HTTP, REST, JSON** — endpoint inceleme, istek/yanıt yapıları ve API testleri |
 | **Çalışma ortamı** | **Linux, Docker** — komut satırı araçları, çalışma ortamı ve container kavramları |
 
-**Yazılım geliştirme pratiği:** Modüler kod organizasyonu · Temiz kod prensipleri · Teknik dokümantasyon · Hata ayıklama · Sürüm kontrolü
-
 ## 🤖 Yapay Zekâ ve Yeni Teknolojiler
 
 Üretken yapay zekâyı yalnızca bir sohbet aracı olarak değil, **uygulamalara eklenebilen bir yazılım bileşeni** olarak anlamak istiyorum. Özellikle şunlarla ilgileniyorum:
@@ -65,18 +59,8 @@
 - **RAG ve embeddings:** Belgelerden bağlam elde ederek daha ilgili yanıtlar üretme yaklaşımı.
 - **Otomasyon:** Tekrarlayan geliştirme süreçlerini araçlar ve API'lerle sadeleştirme.
 
-## 🧭 Geliştirme Yaklaşımım
+[![GitHub](https://img.shields.io/badge/GitHub-cio1099-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/cio1099) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cih1099/)
 
-`Problemi anla → Çözümü tasarla → Uygula → Test et → İyileştir → Dokümante et`
 
-Karmaşık bir işi küçük ve anlaşılır parçalara bölmeyi, doğruluğu ön planda tutmayı ve yeni öğrendiğim teknikleri pratikte denemeyi önemsiyorum.
-
-## 🤝 İş Birliği ve Yeni Fikirlere Açığım
-
-**Açık kaynak katkıları, ortak yazılım projeleri, kod incelemeleri ve farklı teknolojileri keşfetme** fırsatlarıyla ilgileniyorum. Öğrendiklerimi paylaşmak ve başkalarının yaklaşımlarından yeni şeyler öğrenmek istiyorum.
-
-[![GitHub](https://img.shields.io/badge/GitHub-cio1099-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/cio1099)
 
 ---
-
-<p align="center"><i>Merak et · Öğren · Geliştir · Paylaş</i></p>
