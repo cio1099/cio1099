@@ -36,7 +36,7 @@ I don't want to limit myself to a single specialization. I'm interested in **alg
 
 *This table combines my foundations with topics I'm continuing to develop; it isn't a claim of advanced expertise in every item.*
 
-## 🔧 Tools I'm Exploring
+## 🔧 Development Tools & Ecosystem
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
@@ -46,13 +46,15 @@ I don't want to limit myself to a single specialization. I'm interested in **alg
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
-**Learning and practice roadmap:**
-- **Java tools:** Maven, JUnit, JDBC, Spring Data JPA, and Hibernate.
-- **API development:** HTTP, REST, JSON, Postman, and API documentation.
-- **Development environment:** Git version control, GitHub workflows, Linux terminal, and Docker basics.
-- **Code quality:** Unit testing, clean code, clear commit messages, and maintainable documentation.
+| Category | Technologies & applications |
+| --- | --- |
+| **Version control** | **Git, GitHub** — branches, commit history, pull requests, and code collaboration |
+| **Java development** | **Maven** — dependency management and builds; **JDBC, Spring Data JPA, Hibernate** — data access and ORM |
+| **Testing & quality** | **JUnit** — unit testing; debugging, test cases, and verification |
+| **APIs & integration** | **Postman, HTTP, REST, JSON** — endpoint inspection, request/response structures, and API testing |
+| **Development environment** | **Linux, Docker** — command-line tools, development environments, and container concepts |
 
-*These tools describe an ecosystem I'm learning about—not a claim that I use every one professionally.*
+**Development practices:** Modular code organization · Clean code principles · Technical documentation · Debugging · Version control
 
 ## 🤖 AI & Emerging Technologies
 
