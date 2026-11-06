@@ -1,42 +1,41 @@
 <p align="right"><strong>🌐 Language / Dil:</strong> <a href="./README.md">🇹🇷 Türkçe</a> | 🇬🇧 English</p>
 
-# Hi, I'm cio1099! 👋
+<h1 align="center">Hi, I'm cio1099 👋</h1>
+<p align="center"><strong>Aspiring Software Developer · Problem Solver · Technology & AI</strong></p>
+<p align="center">
+  <img alt="Open to internship and junior opportunities" src="https://img.shields.io/badge/Open%20to-Internship%20%26%20Junior%20Roles-2ea44f?style=flat-square"/>
+</p>
 
-**Software Developer | C • Java • Spring Boot • PostgreSQL**
+## 👨‍💻 About Me
 
-I'm interested in software development, algorithms, and problem-solving. I build different kinds of applications with C and Java and enjoy learning technologies through hands-on projects. I'm also exploring how artificial intelligence can be used in software products.
+I enjoy exploring different areas of software development, tackling algorithmic problems, and turning what I learn into working applications. I'm strengthening my foundations in **C, Java, Spring Boot, and PostgreSQL**, while developing an interest in software design, maintainable code, and emerging technologies.
 
-## 🛠️ Technologies
+Rather than limiting myself to one specialization, I aim to understand different development workflows and grow by building software with others.
 
-![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+## ⚙️ Tech Stack
 
-**Core topics:** Algorithms · Data structures · Object-oriented programming · Dynamic memory management
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 
-**Areas of interest:** AI-powered applications · Large language models (LLMs) · AI API integrations · Retrieval-augmented generation (RAG)
+**Core foundations:** Algorithms · Data Structures · Object-Oriented Programming · Dynamic Memory Management · SQL
 
-## 💻 Projects
+## 🚀 Areas of Interest & Growth
 
-### 📚 Library Management System
-A **C** application for managing books and authors, borrowing, and returns. Its design accommodates books with multiple authors and updates to book or author information.
+- **Software engineering:** Code quality, modular design, debugging, and maintainable applications.
+- **Application development:** Building functional, understandable solutions to different problems.
+- **Artificial intelligence:** Learning about LLMs, AI-powered applications, API integrations, and approaches such as RAG.
 
-### 🧮 Scientific Calculator
-A terminal-based calculator that interprets mathematical expressions, including logarithms and exponentiation. It also supports numerical techniques such as **Newton–Raphson**.
+## 🎯 Career Goals
 
-### 🎮 Number Matching Game
-A number-pair matching game on an **N × N** grid. Boards can be loaded from predefined layouts in text files or generated programmatically.
+**Open to software development internships, trainee programs, and junior developer opportunities.** I'm looking for opportunities where I can contribute, learn from a team, and strengthen my analytical thinking and software development skills.
 
-*Repository links will be added as the projects are published.*
+## 🔗 Connect
 
-## 🌱 Currently Focusing On
-
-- Improving my general software development and algorithmic problem-solving skills.
-- Refining project structure and documentation.
-- Learning how AI and LLM-based tools can be integrated into software.
+[![GitHub](https://img.shields.io/badge/GitHub-cio1099-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/cio1099)
 
 ---
 
-*Learning something new with every project.*
+<p align="center"><i>Stay curious. Keep learning. Build and share.</i></p>
