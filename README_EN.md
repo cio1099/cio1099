@@ -4,8 +4,8 @@
 </p>
 
 <h1 align="center">Hi, I'm cio1099 👋</h1>
-<h3 align="center">Software Developer | Open to Collaboration & New Technologies</h3>
-<p align="center"><em>I enjoy breaking down problems, turning ideas into software, and learning by building.</em></p>
+<h3 align="center">Software Developer | Problem Solving • Software Engineering • AI</h3>
+<p align="center">I enjoy building software, understanding how systems work, and turning new ideas into code.</p>
 <p align="center">
   <img alt="Problem Solving" src="https://img.shields.io/badge/Problem%20Solving-1f6feb?style=flat-square" />
   <img alt="Continuous Learning" src="https://img.shields.io/badge/Continuous%20Learning-8957e5?style=flat-square" />
@@ -14,39 +14,66 @@
 
 ## 👨‍💻 About Me
 
-I care about more than just making code run: I focus on **understanding the problem, designing straightforward solutions, and improving what I build**. I'm developing my software foundations across different areas with **C, Java, Spring Boot, SQL, and PostgreSQL**.
+I'm building my programming foundations with **C and Java**, exploring application development with **Spring Boot**, and learning about data management with **PostgreSQL and SQL**. I enjoy breaking problems into smaller parts, choosing appropriate data structures, improving readability, and refining a solution step by step.
 
-Algorithms, data structures, and application development are central to my interests. I'm also exploring **AI-powered software**, **large language models (LLMs)**, and how these technologies can be integrated into real applications.
+I don't want to limit myself to a single specialization. I'm interested in **algorithms, systems fundamentals, application architecture, databases, and AI integration**.
 
-## 🛠️ Technologies
+## 🛠️ Technical Foundations
 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-555555?style=for-the-badge&logo=postgresql&logoColor=white)
 
-**Core foundations:** Algorithms · Data Structures · Object-Oriented Programming · Dynamic Memory Management · Problem Solving
-
-## 🔎 Areas I'm Exploring
-
-| Software engineering | AI & emerging technologies |
+| Area | Topics |
 | --- | --- |
-| Modular design, maintainable code, debugging | LLM-based applications and generative AI |
-| Data modeling and application architecture | API integrations and RAG concepts |
-| Algorithmic and performance-minded thinking | Exploring tools and building prototypes |
+| **C & systems programming** | Pointers, `struct`s, `malloc/free`, dynamic memory, file I/O, modular code |
+| **Java ecosystem** | Classes and interfaces, inheritance, encapsulation, collections, exception handling, and OOP fundamentals |
+| **Data & SQL** | Relational databases, tables and relationships, SQL queries, `JOIN`s, and data modeling |
+| **Application development** | Spring Boot ecosystem, layered application design, and API design fundamentals |
+| **Computer science** | Algorithms, data structures, numerical methods, debugging, and problem analysis |
 
-> The AI topics above describe areas I'm learning about, not claims of professional expertise.
+*This table combines my foundations with topics I'm continuing to develop; it isn't a claim of advanced expertise in every item.*
 
-## 🤝 Open To
+## 🔧 Tools I'm Exploring
 
-- **Collaboration:** Sharing ideas, working with others, and building software together.
-- **Open source:** Discovering projects, learning contribution workflows, and contributing where I can add value.
-- **New technologies:** Trying different tools and understanding which problems they can solve.
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=white)
+![JUnit](https://img.shields.io/badge/JUnit-25A162?style=flat-square&logo=junit5&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
-## 🔗 GitHub
+**Learning and practice roadmap:**
+- **Java tools:** Maven, JUnit, JDBC, Spring Data JPA, and Hibernate.
+- **API development:** HTTP, REST, JSON, Postman, and API documentation.
+- **Development environment:** Git version control, GitHub workflows, Linux terminal, and Docker basics.
+- **Code quality:** Unit testing, clean code, clear commit messages, and maintainable documentation.
 
-[![GitHub Profile](https://img.shields.io/badge/GitHub-cio1099-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/cio1099)
+*These tools describe an ecosystem I'm learning about—not a claim that I use every one professionally.*
+
+## 🤖 AI & Emerging Technologies
+
+I want to understand generative AI as **a component that can be integrated into software**, not just a chatbot. Topics I'm exploring include:
+
+- **LLMs and prompt design:** Understanding model inputs and how responses can be guided.
+- **AI API integrations:** Connecting AI features to existing applications.
+- **RAG and embeddings:** Retrieving relevant context from documents to support answers.
+- **Automation:** Simplifying repetitive development tasks with tools and APIs.
+
+## 🧭 How I Approach Development
+
+`Understand → Design → Implement → Test → Improve → Document`
+
+I value breaking complex tasks into manageable steps, prioritizing correctness, and learning new techniques through practice.
+
+## 🤝 Open to Collaboration & Ideas
+
+I'm interested in **open-source contributions, collaborative software projects, code reviews, and exploring unfamiliar technologies**. I enjoy sharing what I learn and discovering new approaches from others.
+
+[![GitHub](https://img.shields.io/badge/GitHub-cio1099-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/cio1099)
 
 ---
 
