@@ -3,20 +3,19 @@
   <a href="./README_EN.md"><img alt="English" src="https://img.shields.io/badge/English-EN-2ea44f?style=for-the-badge" /></a>
 </p>
 
-<h1 align="center">Hi, I'm cio1099 👋</h1>
+<h1 align="center">Hi, I'm cihan 👋</h1>
 <h3 align="center">Software Developer | Problem Solving • Software Engineering • AI</h3>
 <p align="center">I enjoy building software, understanding how systems work, and turning new ideas into code.</p>
 <p align="center">
   <img alt="Problem Solving" src="https://img.shields.io/badge/Problem%20Solving-1f6feb?style=flat-square" />
   <img alt="Continuous Learning" src="https://img.shields.io/badge/Continuous%20Learning-8957e5?style=flat-square" />
-  <img alt="Open to Collaboration" src="https://img.shields.io/badge/Open%20to%20Collaboration-238636?style=flat-square" />
 </p>
 
 ## 👨‍💻 About Me
 
-I'm building my programming foundations with **C and Java**, exploring application development with **Spring Boot**, and learning about data management with **PostgreSQL and SQL**. I enjoy breaking problems into smaller parts, choosing appropriate data structures, improving readability, and refining a solution step by step.
+I'm studying computer engineering at Yıldız Technical University
 
-I don't want to limit myself to a single specialization. I'm interested in **algorithms, systems fundamentals, application architecture, databases, and AI integration**.
+I'm building my programming foundations with **C and Java**, exploring application development with **Spring Boot**, and learning about data management with **PostgreSQL and SQL**.
 
 ## 🛠️ Technical Foundations
 
@@ -34,7 +33,6 @@ I don't want to limit myself to a single specialization. I'm interested in **alg
 | **Application development** | Spring Boot ecosystem, layered application design, and API design fundamentals |
 | **Computer science** | Algorithms, data structures, numerical methods, debugging, and problem analysis |
 
-*This table combines my foundations with topics I'm continuing to develop; it isn't a claim of advanced expertise in every item.*
 
 ## 🔧 Development Tools & Ecosystem
 
@@ -65,18 +63,8 @@ I want to understand generative AI as **a component that can be integrated into 
 - **RAG and embeddings:** Retrieving relevant context from documents to support answers.
 - **Automation:** Simplifying repetitive development tasks with tools and APIs.
 
-## 🧭 How I Approach Development
 
-`Understand → Design → Implement → Test → Improve → Document`
+[![GitHub](https://img.shields.io/badge/GitHub-cio1099-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/cio1099) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kullaniciadin/)
 
-I value breaking complex tasks into manageable steps, prioritizing correctness, and learning new techniques through practice.
-
-## 🤝 Open to Collaboration & Ideas
-
-I'm interested in **open-source contributions, collaborative software projects, code reviews, and exploring unfamiliar technologies**. I enjoy sharing what I learn and discovering new approaches from others.
-
-[![GitHub](https://img.shields.io/badge/GitHub-cio1099-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/cio1099)
 
 ---
-
-<p align="center"><i>Stay curious · Keep learning · Build · Share</i></p>
